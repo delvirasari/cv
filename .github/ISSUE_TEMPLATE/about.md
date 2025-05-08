@@ -1,6 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: About
+about: 'Delvira Sari is a recent graduate with a Bachelor of Science in Biology from
+  the Faculty of Biology, Gadjah Mada University. '
 title: ''
 labels: ''
 assignees: ''
